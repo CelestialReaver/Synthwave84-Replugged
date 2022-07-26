@@ -41,7 +41,7 @@
 ![](https://github.com/CelestialReaver/Synthwave84-Replugged/blob/main/assets/Synthwave-Preview5.png)
 
 ## Misc
-* If you need support, please ask in the _#misc-support_ channel on the <a href="https://discord.gg/0Tmfo5ZbORCRqbAd">Replugged</a> Discord server.
+* If you need support, please ask in the _#misc-support_ channel on the <a href="https://discord.gg/mckWVKBGa8">Replugged</a> Discord server.
 * If you like this theme, please consider spreading the word helping other people discover this theme.
 
 ![](https://i.imgur.com/MA2fwa2.png)
